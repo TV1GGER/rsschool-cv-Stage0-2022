@@ -8,7 +8,6 @@
 
 #### *E-mail: tvigger@yandex.ru*
 
-
 ***
 
 #### __My goals:__

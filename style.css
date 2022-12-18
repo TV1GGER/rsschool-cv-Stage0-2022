@@ -27,7 +27,7 @@ body {
 
 .content {
   width: 70%;
-  margin-top: 70px;
+  margin-top: 12px;
   margin-left: 25%;
   background: #ffffff;
   min-height: calc(100vh - 120px);
